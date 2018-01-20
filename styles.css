@@ -1,0 +1,51 @@
+h1 {
+    border: red solid;
+    box-shadow: 5px 5px 5px black;
+    font-family: times;
+    text-align: center;
+}
+    
+img {    
+    border: red dotted;
+    box-shadow: 5px 5px 5px black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+p {
+    border: 1px solid red;
+    box-shadow: 5px 5px 5px black;
+    text-align: justify;
+    font-style: italic;
+    padding: 5px;
+}
+.description {
+    font-style: normal;
+}
+ul   {
+    border: 1px solid red;
+    list-style-type: none;
+    padding:5px;
+    box-shadow: 5px 5px 5px black;
+}
+span {
+    font-weight: bold;
+}
+.info {
+    font-family: times;
+    max-width: 345px;
+    padding: 5px;
+}
+.card {
+    border-radius: 25px;
+    border: 4px solid;
+    max-width: 350px;
+    padding: 10px;
+    background-color: #ffff00;
+    
+{
+    
+}
+
+  }/* add your CSS here */
